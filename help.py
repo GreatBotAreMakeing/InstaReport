@@ -40,7 +40,7 @@ ${Fore.GREEN}============================== HELP  ==============================
         will be deleted. Only accounts that meet one or both guidelines will be removed.
 
         [ 2️⃣ ] You don't have good proxies. You need to buy paid proxy or crack some good qualities.
-        To buy proxies go to https://t.me/CrevilBot and ask proxy.
+        To buy proxies go to https://t.me/live_all_class and ask proxy.
 
         [ ✔️ ] You can always buy premium version of this tool with more features like
         1. Paid proxy available with tool
@@ -54,7 +54,7 @@ ${Fore.GREEN}============================== HELP  ==============================
         print('''
         
         For more help you can directly contact me on https://t.me/CrevilBot
-        Or you can report bugs at https://t.me/Hacker_Chatroom
+        Or you can report bugs at https://t.me/live_all_class
 
         [ ✔️ ] You can always buy premium version of this tool with more features like
         1. Paid proxy available with tool
@@ -63,7 +63,7 @@ ${Fore.GREEN}============================== HELP  ==============================
          
         ''')
         help_msg()
-        webbrowser.open('http://t.me/Hacker_Chatroom')
+        webbrowser.open('http://t.me/live_all_class')
     elif(int(que_ans)==4):
         clearConsole()
         os.system('python ReportBot.py' if os.name == 'nt' else 'bash run.sh')
